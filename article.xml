@@ -1,26 +1,18 @@
-<table border="1" cellspacing="0" align="right" cellpadding="2" style = "margin-left: 0.5em;">
-<tr><th align="center" bgcolor=pink colspan="2">'''True Finches'''</th></tr>
-<tr><td align="center">[[Image:Eveninggrosbeak12.jpg]]<br>
-<small>''Evening Grosbeak''.</small></td></tr>
-<tr><th bgcolor=pink>{{taxonomy}}</th></tr>
-<tr><td><table align="center">
-<tr><td>{{regnum}}:  </td><td>[[Animal]]ia</td></tr>
-<tr><td>{{Phylum}}:</td><td>[[Chordate|Chordata]]</td></tr>
-<tr><td>{{Classis}}:</td><td>[[bird|Aves]]</td></tr>
-<tr><td>{{Ordo}}:</td><td>[[Passerine|Passeriformes]]</td></tr>
-<tr><td>{{Familia}}:</td><td>'''Fringillidae'''</td></tr>
-</table>
-</td></tr>
-<tr><td>
-<table align="center">
-<tr><th align="center" colspan="2" bgcolor=pink>[[Genus|Genera]]</th></tr>
-<tr><td>many: see list in text</td><td></td></tr>
-</table>
-</td></tr>
-</table>
+{{Taxobox_begin | color=pink | name=True Finches}}
+{{Taxobox_image | image = [[Image:Eveninggrosbeak12.jpg]] | caption = Evening Grosbeak}}
+{{Taxobox_begin_placement | color = pink}}
+{{Taxobox_regnum_entry | taxon = [[Animal]]ia}}
+{{Taxobox_phylum_entry | taxon = [[Chordate|Chordata]]}}
+{{Taxobox_classis_entry | taxon = [[bird|Aves]]}}
+{{Taxobox_ordo_entry | taxon = [[Passerine|Passeriformes]]}}
+{{Taxobox_familia_entry | taxon = '''Fringillidae'''}}
+{{Taxobox_end_placement}}
+{{Taxobox_section_subdivision | color = pink | plural_taxon = Genera}}
+Many, see text
+{{Taxobox_end}}
 '''Finches''' are [[seed]]-eating [[passerine]] [[bird]]s, the many [[species]] of which are found chiefly in the northern hemisphere, but also to a limited extent in [[Africa]] and [[South America]]. 
 
-They are small to moderately large and have a strong [[beak]], usually [[cone|conical]] and in some species very large. All have 12 tail feathers and 9 primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well. Nests are basket-shaped and built in trees.
+They are small to moderately large and have a strong [[beak]], usually [[cone|conical]] and in some species very large. All have 12 tail feathers and 9 primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well. Their nests are basket-shaped and built in trees.
 
 There are two main subfamilies. The first, the '''Fringilline''' finches ''Fringillinae'', contains only three species, which feed their young insects rather than seeds:
 *[[Chaffinch]] ''Fringilla coelebs''
@@ -53,28 +45,28 @@ There are many other birds in other groups which are called finches, notably the
 Some of the closely related [[sparrow]]s are also named as "finches", as are some [[bunting (bird)|bunting]]s.
 
 * Cardueline finch species without articles and not listed elsewhere yet:
-** Sao Tome Grosbeak, <i>Neospiza concolor</i>
-** Oriole Finch, <i>Linurgus olivaceus</i>
-** Golden-winged Grosbeak, <i>Rhynchostruthus socotranus</i>
-** [[Pine Grosbeak]], <i>Pinicola enucleator</i>
-** Crimson-browed Finch, <i>Pinicola subhimachalus</i>
-** Hawfinch, <i>Coccothraustes coccothraustes</i>
-** [[Evening Grosbeak]], <i>Coccothraustes vespertinus</i>
-** Hooded Grosbeak, <i>Coccothraustes abeillei</i>
-** Yellow-billed Grosbeak, <i>Eophona migratoria</i>
-** Japanese Grosbeak, <i>Eophona personata</i>
-** Black-and-yellow Grosbeak, <i>Mycerobas icterioides</i>
-** Collared Grosbeak, <i>Mycerobas affinis</i>
-** Spot-winged Grosbeak, <i>Mycerobas melanozanthos</i>
-** White-winged Grosbeak, <i>Mycerobas carnipes</i>
-** Gold-naped Finch, <i>Pyrrhoplectes epauletta</i>
-** Spectacled Finch, <i>Callacanthis burtoni</i>
-** Crimson-winged Finch, <i>Rhodopechys sanguinea</i>
-** [[Trumpeter Finch]], <i>Rhodopechys githaginea</i>
-** Mongolian Finch, <i>Rhodopechys mongolica</i>
-** Desert Finch, <i>Rhodopechys obsoleta</i>
-** Long-tailed Rosefinch, <i>Uragus sibiricus</i>
-** Scarlet Finch <i>Haematospiza sipahi</i>
+** Sao Tome Grosbeak, ''Neospiza concolor''
+** Oriole Finch, ''Linurgus olivaceus''
+** Golden-winged Grosbeak, ''Rhynchostruthus socotranus''
+** [[Pine Grosbeak]], ''Pinicola enucleator''
+** Crimson-browed Finch, ''Pinicola subhimachalus''
+** Hawfinch, ''Coccothraustes coccothraustes''
+** [[Evening Grosbeak]], ''Coccothraustes vespertinus''
+** Hooded Grosbeak, ''Coccothraustes abeillei''
+** Yellow-billed Grosbeak, ''Eophona migratoria''
+** Japanese Grosbeak, ''Eophona personata''
+** Black-and-yellow Grosbeak, ''Mycerobas icterioides''
+** Collared Grosbeak, ''Mycerobas affinis''
+** Spot-winged Grosbeak, ''Mycerobas melanozanthos''
+** White-winged Grosbeak, ''Mycerobas carnipes''
+** Gold-naped Finch, ''Pyrrhoplectes epauletta''
+** Spectacled Finch, ''Callacanthis burtoni''
+** Crimson-winged Finch, ''Rhodopechys sanguinea''
+** [[Trumpeter Finch]], ''Rhodopechys githaginea''
+** Mongolian Finch, ''Rhodopechys mongolica''
+** Desert Finch, ''Rhodopechys obsoleta''
+** Long-tailed Rosefinch, ''Uragus sibiricus''
+** Scarlet Finch ''Haematospiza sipahi''
 
 [[cy:Llinos]]
 [[de:Finken]]
