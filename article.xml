@@ -2,13 +2,13 @@
 <tr><th align="center" bgcolor=pink colspan="2">'''True Finches'''</th></tr>
 <tr><td align="center">[[Image:Eveninggrosbeak12.jpg]]<br>
 <small>''Evening Grosbeak''.</small></td></tr>
-<tr><th bgcolor=pink>{{msg:taxonomy}}</th></tr>
+<tr><th bgcolor=pink>{{taxonomy}}</th></tr>
 <tr><td><table align="center">
-<tr><td>{{msg:regnum}}:  </td><td>[[Animal]]ia</td></tr>
-<tr><td>{{msg:Phylum}}:</td><td>[[Chordate|Chordata]]</td></tr>
-<tr><td>{{msg:Classis}}:</td><td>[[bird|Aves]]</td></tr>
-<tr><td>{{msg:Ordo}}:</td><td>[[Passeriformes]]</td></tr>
-<tr><td>{{msg:Familia}}:</td><td>'''Fringillidae'''</td></tr>
+<tr><td>{{regnum}}:  </td><td>[[Animal]]ia</td></tr>
+<tr><td>{{Phylum}}:</td><td>[[Chordate|Chordata]]</td></tr>
+<tr><td>{{Classis}}:</td><td>[[bird|Aves]]</td></tr>
+<tr><td>{{Ordo}}:</td><td>[[Passeriformes]]</td></tr>
+<tr><td>{{Familia}}:</td><td>'''Fringillidae'''</td></tr>
 </table>
 </td></tr>
 <tr><td>
