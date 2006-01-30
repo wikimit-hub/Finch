@@ -1,16 +1,20 @@
 {{otheruses}}
-{{Taxobox_begin | color=pink | name=True Finches}}
-{{Taxobox_image | image = [[Image:Eveninggrosbeak12.jpg|200px|]] | caption = [[Evening Grosbeak]]}}
-{{Taxobox_begin_placement | color = pink}}
-{{Taxobox_regnum_entry | taxon = [[Animal]]ia}}
-{{Taxobox_phylum_entry | taxon = [[Chordate|Chordata]]}}
-{{Taxobox_classis_entry | taxon = [[bird|Aves]]}}
-{{Taxobox_ordo_entry | taxon = [[Passerine|Passeriformes]]}}
-{{Taxobox_familia_entry | taxon = '''Fringillidae'''}}<br/>{{Taxobox authority | author = [[Nicholas Aylward Vigors|Vigors]] | date = 1825}}
-{{Taxobox_end_placement}}
-{{Taxobox_section_subdivision | color = pink | plural_taxon = Genera}}
+{{Taxobox
+| color = pink
+| name = True Finches
+| image = Eveninggrosbeak12.jpg
+| image_width = 200px
+| image_caption = [[Evening Grosbeak]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[bird|Aves]]
+| ordo = [[Passerine|Passeriformes]]
+| familia = '''Fringillidae'''
+| familia_authority = [[Nicholas Aylward Vigors|Vigors]], 1825
+| subdivision_ranks = Genera
+| subdivision = 
 ''Many, see text''
-{{Taxobox_end}}
+}}
 '''Finches''' are [[seed]]-eating [[passerine]] [[bird]]s, the many [[species]] of which are found chiefly in the northern hemisphere, but also to a limited extent in [[Africa]] and [[South America]]. 
 
 They are small to moderately large and have a strong [[beak]], usually [[cone (solid)|conical]] and in some species very large. All have 12 tail feathers and 9 primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well. Their nests are basket-shaped and built in trees.
